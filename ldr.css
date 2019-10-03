@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Red+Hat+Display:400,900&display=swap");
 body, html {
-  height: 100%;
-  width: 100%;
+  
   overflow: hidden;
   background: #4B4168;
   color: #333;
